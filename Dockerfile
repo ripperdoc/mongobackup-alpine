@@ -1,4 +1,5 @@
 FROM alpine:edge
+MAINTAINER Ripperdoc
 
 # Adapted from https://github.com/rheosystems/dockerfiles/tree/master/mongodb-monitoring-agent
 
